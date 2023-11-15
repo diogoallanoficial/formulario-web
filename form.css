@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(238, 235, 235);
+}
+
+.form-container {
+width: 25%;
+margin: auto;
+background-color: rgb(253, 239, 239);
+padding: relative;
+}
+
+.form-group {
+    margin-bottom: 10px;
+    display: block;
+    background-color: rgb(241, 238, 233);
+    font: 20px solid rgb(235, 226, 226);
+}
+
+h3 {
+    font-size:20px solid red;
+    
+}
+
+.input {
+    border-radius: 10px;
+}
